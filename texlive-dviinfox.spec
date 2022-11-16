@@ -27,8 +27,8 @@ mkdir -p %{buildroot}%{_datadir}
 cp -a texmf-dist %{buildroot}%{_datadir}
 
 %files
-%{_texmfdistdir}/texmf-dist/scripts/dviinfox
-%doc %{_texmfdistdir}/texmf-dist/doc/latex/dviinfox
+%{_texmfdistdir}/scripts/dviinfox
+%doc %{_texmfdistdir}/doc/latex/dviinfox
 
 %post -p %{_sbindir}/texlive.post
 

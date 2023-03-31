@@ -1,6 +1,6 @@
 Name:		texlive-dviinfox
 Version:	59216
-Release:	1
+Release:	2
 Summary:	Perl script to print DVI meta information
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dviinfox

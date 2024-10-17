@@ -3,7 +3,7 @@ Version:	59216
 Release:	2
 Summary:	Perl script to print DVI meta information
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dviinfox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dviinfox
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dviinfox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dviinfox.doc.r%{version}.tar.xz
